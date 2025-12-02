@@ -1,34 +1,94 @@
-# React JS Landing Page Template
+# 📊 Smart Payroll System  
+A complete **HR & Payroll Management Portal** built using the **MERN Stack**.  
+This system helps organizations manage employees, attendance, salary calculations, payroll reports, and salary slip generation — all in one place.
 
-**
+---
 
-# 🛎️🛎️ Good news! New & improved [V2](https://github.com/issaafalkattan/react-landing-page-template-2021) is out  
+## 🚀 Features
 
-**
+### 👤 Employee Management
+- Add, view, and manage employee records  
+- Store salary structure (basic, allowances, deductions)  
+- Auto-calculate **net salary**  
 
+### 🕒 Attendance Management
+- Track daily attendance  
+- Status: **Present / Absent / Leave**  
+- Attendance table sorted by latest date  
 
-### <a href="https://react-landing-page-template-93ne.vercel.app/">LIVE DEMO</a> 
+### 💰 Payroll System
+- Auto-calculate monthly payroll  
+- Highest & lowest salary summary  
+- Total payroll overview  
+- Generate professional **PDF salary slips**  
 
-## Description
-This is a ReactJS based landing page template, fit for a startup company/service with a one page view. The design is inspired by a template from <a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
-All 'visual' data can be easily modified by changing the data.json file.
+### 📄 Salary Slip Generation
+- Download salary slip as a **PDF**  
+- Uses `jsPDF` library  
+- Clean layout with all salary details  
 
-## Make it Yours!
-### 1. Preps
-You will need to have <a href="https://nodejs.org/">Node JS</a> installed on your pc. 
+### 📊 Dashboard Overview
+- Total employees  
+- Present / Absent / Leave count  
+- Payroll snapshot  
+- Today’s attendance summary  
+- Quick navigation buttons  
 
-### 2. Clone Files
-After cloning the files, you will have to run ```yarn``` followed by ```yarn start``` in the CLI
-### 3. Add your own data 
-Change the data in the ```data.json``` file as well as add any images to ```public/img/```
-You can also change styles by modifying the ```public/css``` files.
-If you need the contact form to work, you also need to create an EmailJS account, and modify the ```src/components/contact.jsx``` file to replace your own service ID, template ID and Public Key
+### 📱 Fully Responsive UI
+- Modern dashboard layout  
+- Sidebar navigation  
+- Mobile-friendly design  
 
-## Like this project?
-<a href="https://www.buymeacoffee.com/issaaf">Buy my a coffee ☕️</a>
+---
 
-## Credits
-##### Free CSS 
-<a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
+## 🛠️ Tech Stack
 
-##### Issaaf kattan
+### **Frontend**
+- React.js  
+- Axios  
+- Bootstrap  
+- jsPDF (PDF generation)  
+
+### **Backend**
+- Node.js  
+- Express.js  
+- MongoDB (Atlas/local)  
+
+### **Tools**
+- Git & GitHub  
+- Postman  
+- Render / Vercel (deployment)  
+
+---
+
+## 📂 Project Structure
+
+```bash
+Smart-Payroll-System/
+│
+├── backend/
+│   ├── models/
+│   ├── routes/
+│   ├── controllers/
+│   ├── data/
+│   ├── server.js
+│   ├── .env.example
+│   └── package.json
+│
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   ├── .env.example
+│   └── package.json
+│
+├── README.md
+└── .gitignore
+
+📌 Screenshots
+![Home](screenshots/1.png)
+![Login](screenshots/2.png)
+![Dashboard Home](screenshots/3.png)
+![Employees](screenshots/4.png)
+![Payroll](screenshots/5.png)
+![Attendance](screenshots/6.png)
+![Salary Slips](screenshots/7.png)
