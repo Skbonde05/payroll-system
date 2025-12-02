@@ -8,25 +8,27 @@ export const Dashboard = ({ user }) => {
   const [employees, setEmployees] = useState([]);
   const [attendance, setAttendance] = useState([]);
 
-  useEffect(() => {
-    const fetchData = async () => {
-      try {
-        const empRes = await axios.get("http://localhost:5000/api/employees");
-        const attRes = await axios.get("http://localhost:5000/api/attendance");
+  const API_BASE = process.env.REACT_APP_API_BASE_URL || "http://localhost:5000/api";
 
-        setEmployees(empRes.data);
-        setAttendance(
-          attRes.data.map((att) => ({
-            ...att,
-            date: new Date(att.date) // convert string to Date
-          }))
-        );
-      } catch (err) {
-        console.error("Error fetching data:", err);
-      }
-    };
-    fetchData();
-  }, []);
+useEffect(() => {
+  const fetchData = async () => {
+    try {
+      const empRes = await axios.get(`${API_BASE}/employees`);
+      const attRes = await axios.get(`${API_BASE}/attendance`);
+
+      setEmployees(empRes.data);
+      setAttendance(
+        attRes.data.map((att) => ({
+          ...att,
+          date: new Date(att.date), // keep as Date
+        }))
+      );
+    } catch (err) {
+      console.error("Error fetching data:", err);
+    }
+  };
+  fetchData();
+}, []);
 
   const calculateNetSalary = (emp) =>
     emp.basicSalary + emp.allowances - emp.deductions;
