@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Sam",
+    "email": "sam9876@gmail.com",
+    "designation": "Manager",
+    "basicSalary": 40000,
+    "allowances": 5000,
+    "deductions": 2000
+  },
+  {
+    "name": "Aarav",
+    "email": "aarav@company.com",
+    "designation": "Developer",
+    "basicSalary": 32000,
+    "allowances": 3000,
+    "deductions": 1200
+  },
+  {
+    "name": "Riya",
+    "email": "riya@company.com",
+    "designation": "HR Executive",
+    "basicSalary": 28000,
+    "allowances": 4000,
+    "deductions": 800
+  },
+  {
+    "name": "Raj",
+    "email": "raj@company.com",
+    "designation": "Team Lead",
+    "basicSalary": 35000,
+    "allowances": 4500,
+    "deductions": 1500
+  },
+  {
+    "name": "Neha",
+    "email": "neha@company.com",
+    "designation": "Sales Executive",
+    "basicSalary": 26000,
+    "allowances": 3500,
+    "deductions": 700
+  },
+  {
+    "name": "Rutuja",
+    "email": "rutuja@company.com",
+    "designation": "Designer",
+    "basicSalary": 27000,
+    "allowances": 3000,
+    "deductions": 900
+  },
+  {
+    "name": "Parth",
+    "email": "parth@company.com",
+    "designation": "Software Engineer",
+    "basicSalary": 33000,
+    "allowances": 3500,
+    "deductions": 1300
+  },
+  {
+    "name": "Jiya",
+    "email": "jiya@company.com",
+    "designation": "Intern",
+    "basicSalary": 15000,
+    "allowances": 2000,
+    "deductions": 300
+  },
+  {
+    "name": "Divya",
+    "email": "divya@company.com",
+    "designation": "QA Tester",
+    "basicSalary": 26000,
+    "allowances": 2500,
+    "deductions": 600
+  },
+  {
+    "name": "Sameer",
+    "email": "sameer@company.com",
+    "designation": "Accountant",
+    "basicSalary": 30000,
+    "allowances": 3500,
+    "deductions": 1000
+  },
+  {
+    "name": "Era",
+    "email": "era@company.com",
+    "designation": "Admin Assistant",
+    "basicSalary": 22000,
+    "allowances": 2500,
+    "deductions": 500
+  },
+  {
+    "name": "Aryan",
+    "email": "aryan@company.com",
+    "designation": "Support Engineer",
+    "basicSalary": 28000,
+    "allowances": 3000,
+    "deductions": 700
+  }
+]

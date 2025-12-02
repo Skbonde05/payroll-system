@@ -1,0 +1,1002 @@
+[
+  {
+    "employee": "Sam",
+    "date": "2025-02-01",
+    "status": "Present"
+  },
+  {
+    "employee": "Aarav",
+    "date": "2025-02-01",
+    "status": "Present"
+  },
+  {
+    "employee": "Riya",
+    "date": "2025-02-01",
+    "status": "Absent"
+  },
+  {
+    "employee": "Raj",
+    "date": "2025-02-01",
+    "status": "Present"
+  },
+  {
+    "employee": "Neha",
+    "date": "2025-02-01",
+    "status": "Absent"
+  },
+  {
+    "employee": "Rutuja",
+    "date": "2025-02-01",
+    "status": "Absent"
+  },
+  {
+    "employee": "Parth",
+    "date": "2025-02-01",
+    "status": "Present"
+  },
+  {
+    "employee": "Jiya",
+    "date": "2025-02-01",
+    "status": "Present"
+  },
+  {
+    "employee": "Divya",
+    "date": "2025-02-01",
+    "status": "Leave"
+  },
+  {
+    "employee": "Sameer",
+    "date": "2025-02-01",
+    "status": "Absent"
+  },
+  {
+    "employee": "Era",
+    "date": "2025-02-01",
+    "status": "Present"
+  },
+  {
+    "employee": "Aryan",
+    "date": "2025-02-01",
+    "status": "Present"
+  },
+  {
+    "employee": "Kabir",
+    "date": "2025-02-01",
+    "status": "Absent"
+  },
+  {
+    "employee": "Nisha",
+    "date": "2025-02-01",
+    "status": "Leave"
+  },
+  {
+    "employee": "Manav",
+    "date": "2025-02-01",
+    "status": "Leave"
+  },
+  {
+    "employee": "Tara",
+    "date": "2025-02-01",
+    "status": "Absent"
+  },
+  {
+    "employee": "Rohan",
+    "date": "2025-02-01",
+    "status": "Leave"
+  },
+  {
+    "employee": "Pooja",
+    "date": "2025-02-01",
+    "status": "Absent"
+  },
+  {
+    "employee": "Dev",
+    "date": "2025-02-01",
+    "status": "Present"
+  },
+  {
+    "employee": "Sara",
+    "date": "2025-02-01",
+    "status": "Present"
+  },
+  {
+    "employee": "Sam",
+    "date": "2025-02-02",
+    "status": "Present"
+  },
+  {
+    "employee": "Aarav",
+    "date": "2025-02-02",
+    "status": "Absent"
+  },
+  {
+    "employee": "Riya",
+    "date": "2025-02-02",
+    "status": "Absent"
+  },
+  {
+    "employee": "Raj",
+    "date": "2025-02-02",
+    "status": "Present"
+  },
+  {
+    "employee": "Neha",
+    "date": "2025-02-02",
+    "status": "Absent"
+  },
+  {
+    "employee": "Rutuja",
+    "date": "2025-02-02",
+    "status": "Leave"
+  },
+  {
+    "employee": "Parth",
+    "date": "2025-02-02",
+    "status": "Leave"
+  },
+  {
+    "employee": "Jiya",
+    "date": "2025-02-02",
+    "status": "Leave"
+  },
+  {
+    "employee": "Divya",
+    "date": "2025-02-02",
+    "status": "Absent"
+  },
+  {
+    "employee": "Sameer",
+    "date": "2025-02-02",
+    "status": "Absent"
+  },
+  {
+    "employee": "Era",
+    "date": "2025-02-02",
+    "status": "Absent"
+  },
+  {
+    "employee": "Aryan",
+    "date": "2025-02-02",
+    "status": "Absent"
+  },
+  {
+    "employee": "Kabir",
+    "date": "2025-02-02",
+    "status": "Absent"
+  },
+  {
+    "employee": "Nisha",
+    "date": "2025-02-02",
+    "status": "Present"
+  },
+  {
+    "employee": "Manav",
+    "date": "2025-02-02",
+    "status": "Absent"
+  },
+  {
+    "employee": "Tara",
+    "date": "2025-02-02",
+    "status": "Present"
+  },
+  {
+    "employee": "Rohan",
+    "date": "2025-02-02",
+    "status": "Present"
+  },
+  {
+    "employee": "Pooja",
+    "date": "2025-02-02",
+    "status": "Absent"
+  },
+  {
+    "employee": "Dev",
+    "date": "2025-02-02",
+    "status": "Present"
+  },
+  {
+    "employee": "Sara",
+    "date": "2025-02-02",
+    "status": "Present"
+  },
+  {
+    "employee": "Sam",
+    "date": "2025-02-03",
+    "status": "Leave"
+  },
+  {
+    "employee": "Aarav",
+    "date": "2025-02-03",
+    "status": "Absent"
+  },
+  {
+    "employee": "Riya",
+    "date": "2025-02-03",
+    "status": "Present"
+  },
+  {
+    "employee": "Raj",
+    "date": "2025-02-03",
+    "status": "Present"
+  },
+  {
+    "employee": "Neha",
+    "date": "2025-02-03",
+    "status": "Absent"
+  },
+  {
+    "employee": "Rutuja",
+    "date": "2025-02-03",
+    "status": "Present"
+  },
+  {
+    "employee": "Parth",
+    "date": "2025-02-03",
+    "status": "Absent"
+  },
+  {
+    "employee": "Jiya",
+    "date": "2025-02-03",
+    "status": "Absent"
+  },
+  {
+    "employee": "Divya",
+    "date": "2025-02-03",
+    "status": "Absent"
+  },
+  {
+    "employee": "Sameer",
+    "date": "2025-02-03",
+    "status": "Absent"
+  },
+  {
+    "employee": "Era",
+    "date": "2025-02-03",
+    "status": "Leave"
+  },
+  {
+    "employee": "Aryan",
+    "date": "2025-02-03",
+    "status": "Leave"
+  },
+  {
+    "employee": "Kabir",
+    "date": "2025-02-03",
+    "status": "Present"
+  },
+  {
+    "employee": "Nisha",
+    "date": "2025-02-03",
+    "status": "Present"
+  },
+  {
+    "employee": "Manav",
+    "date": "2025-02-03",
+    "status": "Absent"
+  },
+  {
+    "employee": "Tara",
+    "date": "2025-02-03",
+    "status": "Leave"
+  },
+  {
+    "employee": "Rohan",
+    "date": "2025-02-03",
+    "status": "Absent"
+  },
+  {
+    "employee": "Pooja",
+    "date": "2025-02-03",
+    "status": "Present"
+  },
+  {
+    "employee": "Dev",
+    "date": "2025-02-03",
+    "status": "Absent"
+  },
+  {
+    "employee": "Sara",
+    "date": "2025-02-03",
+    "status": "Leave"
+  },
+  {
+    "employee": "Sam",
+    "date": "2025-02-04",
+    "status": "Absent"
+  },
+  {
+    "employee": "Aarav",
+    "date": "2025-02-04",
+    "status": "Present"
+  },
+  {
+    "employee": "Riya",
+    "date": "2025-02-04",
+    "status": "Absent"
+  },
+  {
+    "employee": "Raj",
+    "date": "2025-02-04",
+    "status": "Absent"
+  },
+  {
+    "employee": "Neha",
+    "date": "2025-02-04",
+    "status": "Leave"
+  },
+  {
+    "employee": "Rutuja",
+    "date": "2025-02-04",
+    "status": "Absent"
+  },
+  {
+    "employee": "Parth",
+    "date": "2025-02-04",
+    "status": "Present"
+  },
+  {
+    "employee": "Jiya",
+    "date": "2025-02-04",
+    "status": "Absent"
+  },
+  {
+    "employee": "Divya",
+    "date": "2025-02-04",
+    "status": "Absent"
+  },
+  {
+    "employee": "Sameer",
+    "date": "2025-02-04",
+    "status": "Absent"
+  },
+  {
+    "employee": "Era",
+    "date": "2025-02-04",
+    "status": "Present"
+  },
+  {
+    "employee": "Aryan",
+    "date": "2025-02-04",
+    "status": "Leave"
+  },
+  {
+    "employee": "Kabir",
+    "date": "2025-02-04",
+    "status": "Absent"
+  },
+  {
+    "employee": "Nisha",
+    "date": "2025-02-04",
+    "status": "Present"
+  },
+  {
+    "employee": "Manav",
+    "date": "2025-02-04",
+    "status": "Absent"
+  },
+  {
+    "employee": "Tara",
+    "date": "2025-02-04",
+    "status": "Absent"
+  },
+  {
+    "employee": "Rohan",
+    "date": "2025-02-04",
+    "status": "Absent"
+  },
+  {
+    "employee": "Pooja",
+    "date": "2025-02-04",
+    "status": "Absent"
+  },
+  {
+    "employee": "Dev",
+    "date": "2025-02-04",
+    "status": "Absent"
+  },
+  {
+    "employee": "Sara",
+    "date": "2025-02-04",
+    "status": "Present"
+  },
+  {
+    "employee": "Sam",
+    "date": "2025-02-05",
+    "status": "Leave"
+  },
+  {
+    "employee": "Aarav",
+    "date": "2025-02-05",
+    "status": "Absent"
+  },
+  {
+    "employee": "Riya",
+    "date": "2025-02-05",
+    "status": "Leave"
+  },
+  {
+    "employee": "Raj",
+    "date": "2025-02-05",
+    "status": "Present"
+  },
+  {
+    "employee": "Neha",
+    "date": "2025-02-05",
+    "status": "Absent"
+  },
+  {
+    "employee": "Rutuja",
+    "date": "2025-02-05",
+    "status": "Leave"
+  },
+  {
+    "employee": "Parth",
+    "date": "2025-02-05",
+    "status": "Leave"
+  },
+  {
+    "employee": "Jiya",
+    "date": "2025-02-05",
+    "status": "Absent"
+  },
+  {
+    "employee": "Divya",
+    "date": "2025-02-05",
+    "status": "Absent"
+  },
+  {
+    "employee": "Sameer",
+    "date": "2025-02-05",
+    "status": "Leave"
+  },
+  {
+    "employee": "Era",
+    "date": "2025-02-05",
+    "status": "Leave"
+  },
+  {
+    "employee": "Aryan",
+    "date": "2025-02-05",
+    "status": "Leave"
+  },
+  {
+    "employee": "Kabir",
+    "date": "2025-02-05",
+    "status": "Absent"
+  },
+  {
+    "employee": "Nisha",
+    "date": "2025-02-05",
+    "status": "Absent"
+  },
+  {
+    "employee": "Manav",
+    "date": "2025-02-05",
+    "status": "Absent"
+  },
+  {
+    "employee": "Tara",
+    "date": "2025-02-05",
+    "status": "Leave"
+  },
+  {
+    "employee": "Rohan",
+    "date": "2025-02-05",
+    "status": "Absent"
+  },
+  {
+    "employee": "Pooja",
+    "date": "2025-02-05",
+    "status": "Leave"
+  },
+  {
+    "employee": "Dev",
+    "date": "2025-02-05",
+    "status": "Leave"
+  },
+  {
+    "employee": "Sara",
+    "date": "2025-02-05",
+    "status": "Absent"
+  },
+  {
+    "employee": "Sam",
+    "date": "2025-02-06",
+    "status": "Leave"
+  },
+  {
+    "employee": "Aarav",
+    "date": "2025-02-06",
+    "status": "Present"
+  },
+  {
+    "employee": "Riya",
+    "date": "2025-02-06",
+    "status": "Leave"
+  },
+  {
+    "employee": "Raj",
+    "date": "2025-02-06",
+    "status": "Present"
+  },
+  {
+    "employee": "Neha",
+    "date": "2025-02-06",
+    "status": "Present"
+  },
+  {
+    "employee": "Rutuja",
+    "date": "2025-02-06",
+    "status": "Present"
+  },
+  {
+    "employee": "Parth",
+    "date": "2025-02-06",
+    "status": "Absent"
+  },
+  {
+    "employee": "Jiya",
+    "date": "2025-02-06",
+    "status": "Leave"
+  },
+  {
+    "employee": "Divya",
+    "date": "2025-02-06",
+    "status": "Present"
+  },
+  {
+    "employee": "Sameer",
+    "date": "2025-02-06",
+    "status": "Present"
+  },
+  {
+    "employee": "Era",
+    "date": "2025-02-06",
+    "status": "Absent"
+  },
+  {
+    "employee": "Aryan",
+    "date": "2025-02-06",
+    "status": "Absent"
+  },
+  {
+    "employee": "Kabir",
+    "date": "2025-02-06",
+    "status": "Absent"
+  },
+  {
+    "employee": "Nisha",
+    "date": "2025-02-06",
+    "status": "Leave"
+  },
+  {
+    "employee": "Manav",
+    "date": "2025-02-06",
+    "status": "Present"
+  },
+  {
+    "employee": "Tara",
+    "date": "2025-02-06",
+    "status": "Absent"
+  },
+  {
+    "employee": "Rohan",
+    "date": "2025-02-06",
+    "status": "Present"
+  },
+  {
+    "employee": "Pooja",
+    "date": "2025-02-06",
+    "status": "Present"
+  },
+  {
+    "employee": "Dev",
+    "date": "2025-02-06",
+    "status": "Present"
+  },
+  {
+    "employee": "Sara",
+    "date": "2025-02-06",
+    "status": "Leave"
+  },
+  {
+    "employee": "Sam",
+    "date": "2025-02-07",
+    "status": "Absent"
+  },
+  {
+    "employee": "Aarav",
+    "date": "2025-02-07",
+    "status": "Present"
+  },
+  {
+    "employee": "Riya",
+    "date": "2025-02-07",
+    "status": "Absent"
+  },
+  {
+    "employee": "Raj",
+    "date": "2025-02-07",
+    "status": "Absent"
+  },
+  {
+    "employee": "Neha",
+    "date": "2025-02-07",
+    "status": "Leave"
+  },
+  {
+    "employee": "Rutuja",
+    "date": "2025-02-07",
+    "status": "Present"
+  },
+  {
+    "employee": "Parth",
+    "date": "2025-02-07",
+    "status": "Leave"
+  },
+  {
+    "employee": "Jiya",
+    "date": "2025-02-07",
+    "status": "Present"
+  },
+  {
+    "employee": "Divya",
+    "date": "2025-02-07",
+    "status": "Present"
+  },
+  {
+    "employee": "Sameer",
+    "date": "2025-02-07",
+    "status": "Present"
+  },
+  {
+    "employee": "Era",
+    "date": "2025-02-07",
+    "status": "Leave"
+  },
+  {
+    "employee": "Aryan",
+    "date": "2025-02-07",
+    "status": "Absent"
+  },
+  {
+    "employee": "Kabir",
+    "date": "2025-02-07",
+    "status": "Absent"
+  },
+  {
+    "employee": "Nisha",
+    "date": "2025-02-07",
+    "status": "Present"
+  },
+  {
+    "employee": "Manav",
+    "date": "2025-02-07",
+    "status": "Absent"
+  },
+  {
+    "employee": "Tara",
+    "date": "2025-02-07",
+    "status": "Absent"
+  },
+  {
+    "employee": "Rohan",
+    "date": "2025-02-07",
+    "status": "Present"
+  },
+  {
+    "employee": "Pooja",
+    "date": "2025-02-07",
+    "status": "Present"
+  },
+  {
+    "employee": "Dev",
+    "date": "2025-02-07",
+    "status": "Leave"
+  },
+  {
+    "employee": "Sara",
+    "date": "2025-02-07",
+    "status": "Present"
+  },
+  {
+    "employee": "Sam",
+    "date": "2025-02-08",
+    "status": "Leave"
+  },
+  {
+    "employee": "Aarav",
+    "date": "2025-02-08",
+    "status": "Absent"
+  },
+  {
+    "employee": "Riya",
+    "date": "2025-02-08",
+    "status": "Leave"
+  },
+  {
+    "employee": "Raj",
+    "date": "2025-02-08",
+    "status": "Absent"
+  },
+  {
+    "employee": "Neha",
+    "date": "2025-02-08",
+    "status": "Leave"
+  },
+  {
+    "employee": "Rutuja",
+    "date": "2025-02-08",
+    "status": "Leave"
+  },
+  {
+    "employee": "Parth",
+    "date": "2025-02-08",
+    "status": "Present"
+  },
+  {
+    "employee": "Jiya",
+    "date": "2025-02-08",
+    "status": "Present"
+  },
+  {
+    "employee": "Divya",
+    "date": "2025-02-08",
+    "status": "Present"
+  },
+  {
+    "employee": "Sameer",
+    "date": "2025-02-08",
+    "status": "Absent"
+  },
+  {
+    "employee": "Era",
+    "date": "2025-02-08",
+    "status": "Present"
+  },
+  {
+    "employee": "Aryan",
+    "date": "2025-02-08",
+    "status": "Leave"
+  },
+  {
+    "employee": "Kabir",
+    "date": "2025-02-08",
+    "status": "Present"
+  },
+  {
+    "employee": "Nisha",
+    "date": "2025-02-08",
+    "status": "Leave"
+  },
+  {
+    "employee": "Manav",
+    "date": "2025-02-08",
+    "status": "Leave"
+  },
+  {
+    "employee": "Tara",
+    "date": "2025-02-08",
+    "status": "Present"
+  },
+  {
+    "employee": "Rohan",
+    "date": "2025-02-08",
+    "status": "Present"
+  },
+  {
+    "employee": "Pooja",
+    "date": "2025-02-08",
+    "status": "Absent"
+  },
+  {
+    "employee": "Dev",
+    "date": "2025-02-08",
+    "status": "Leave"
+  },
+  {
+    "employee": "Sara",
+    "date": "2025-02-08",
+    "status": "Leave"
+  },
+  {
+    "employee": "Sam",
+    "date": "2025-02-09",
+    "status": "Leave"
+  },
+  {
+    "employee": "Aarav",
+    "date": "2025-02-09",
+    "status": "Present"
+  },
+  {
+    "employee": "Riya",
+    "date": "2025-02-09",
+    "status": "Absent"
+  },
+  {
+    "employee": "Raj",
+    "date": "2025-02-09",
+    "status": "Leave"
+  },
+  {
+    "employee": "Neha",
+    "date": "2025-02-09",
+    "status": "Present"
+  },
+  {
+    "employee": "Rutuja",
+    "date": "2025-02-09",
+    "status": "Leave"
+  },
+  {
+    "employee": "Parth",
+    "date": "2025-02-09",
+    "status": "Present"
+  },
+  {
+    "employee": "Jiya",
+    "date": "2025-02-09",
+    "status": "Leave"
+  },
+  {
+    "employee": "Divya",
+    "date": "2025-02-09",
+    "status": "Absent"
+  },
+  {
+    "employee": "Sameer",
+    "date": "2025-02-09",
+    "status": "Leave"
+  },
+  {
+    "employee": "Era",
+    "date": "2025-02-09",
+    "status": "Leave"
+  },
+  {
+    "employee": "Aryan",
+    "date": "2025-02-09",
+    "status": "Present"
+  },
+  {
+    "employee": "Kabir",
+    "date": "2025-02-09",
+    "status": "Absent"
+  },
+  {
+    "employee": "Nisha",
+    "date": "2025-02-09",
+    "status": "Absent"
+  },
+  {
+    "employee": "Manav",
+    "date": "2025-02-09",
+    "status": "Leave"
+  },
+  {
+    "employee": "Tara",
+    "date": "2025-02-09",
+    "status": "Leave"
+  },
+  {
+    "employee": "Rohan",
+    "date": "2025-02-09",
+    "status": "Absent"
+  },
+  {
+    "employee": "Pooja",
+    "date": "2025-02-09",
+    "status": "Absent"
+  },
+  {
+    "employee": "Dev",
+    "date": "2025-02-09",
+    "status": "Absent"
+  },
+  {
+    "employee": "Sara",
+    "date": "2025-02-09",
+    "status": "Present"
+  },
+  {
+    "employee": "Sam",
+    "date": "2025-02-10",
+    "status": "Absent"
+  },
+  {
+    "employee": "Aarav",
+    "date": "2025-02-10",
+    "status": "Leave"
+  },
+  {
+    "employee": "Riya",
+    "date": "2025-02-10",
+    "status": "Leave"
+  },
+  {
+    "employee": "Raj",
+    "date": "2025-02-10",
+    "status": "Absent"
+  },
+  {
+    "employee": "Neha",
+    "date": "2025-02-10",
+    "status": "Absent"
+  },
+  {
+    "employee": "Rutuja",
+    "date": "2025-02-10",
+    "status": "Absent"
+  },
+  {
+    "employee": "Parth",
+    "date": "2025-02-10",
+    "status": "Leave"
+  },
+  {
+    "employee": "Jiya",
+    "date": "2025-02-10",
+    "status": "Absent"
+  },
+  {
+    "employee": "Divya",
+    "date": "2025-02-10",
+    "status": "Present"
+  },
+  {
+    "employee": "Sameer",
+    "date": "2025-02-10",
+    "status": "Present"
+  },
+  {
+    "employee": "Era",
+    "date": "2025-02-10",
+    "status": "Leave"
+  },
+  {
+    "employee": "Aryan",
+    "date": "2025-02-10",
+    "status": "Leave"
+  },
+  {
+    "employee": "Kabir",
+    "date": "2025-02-10",
+    "status": "Present"
+  },
+  {
+    "employee": "Nisha",
+    "date": "2025-02-10",
+    "status": "Leave"
+  },
+  {
+    "employee": "Manav",
+    "date": "2025-02-10",
+    "status": "Present"
+  },
+  {
+    "employee": "Tara",
+    "date": "2025-02-10",
+    "status": "Absent"
+  },
+  {
+    "employee": "Rohan",
+    "date": "2025-02-10",
+    "status": "Present"
+  },
+  {
+    "employee": "Pooja",
+    "date": "2025-02-10",
+    "status": "Present"
+  },
+  {
+    "employee": "Dev",
+    "date": "2025-02-10",
+    "status": "Leave"
+  },
+  {
+    "employee": "Sara",
+    "date": "2025-02-10",
+    "status": "Leave"
+  }
+]
